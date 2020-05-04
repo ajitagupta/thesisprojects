@@ -11,7 +11,7 @@ Title: Clustering neural systems using generative embedding<br/>
 Lab: Machine Learning Laboratory, Dept. of Computer Science (ETH Zurich) & Laboratory for Social and Neural Systems Research (University of Zurich) <br/>
 Time frame: Jun 2011 - Dec 2012<br/>
 Tools & Technologies: Matlab<br/>
-Brief rundown: Implemented unsupervised learning algorithms, perform a statistical analysis and visualized disorder groups found in fMRI data.
+Brief rundown: Implemented and contrasted unsupervised learning algorithms, perform a statistical analysis and visualized disorder groups found in fMRI data.
 
 #### Semester Thesis (in Data Mining) (1)
 Title: Social data mining on smartphones<br/>

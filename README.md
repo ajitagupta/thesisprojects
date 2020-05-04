@@ -4,7 +4,7 @@ Title: Estimation of shape, illumination and reflectance from a single image<br/
 Lab: Computer Vision Group, Dept. of Electrical Engineering and Information Technology<br/>
 Time frame: Jun 2012 - Feb 2013<br/>
 Tools & Technologies: C/C++, Matlab, MEX Framework<br/>
-Brief rundown: Developed a model to jointly estimate shape, light and color components from an image. Tested model on a standard benchmark dataset as well as objects in the real world. Obtained higher accuracy than existing status quo methods.
+Brief rundown: Developed a model to jointly estimate shape, light and color components from an image. Tested model on a standard benchmark dataset as well as objects in the real world. Obtained upto 60% higher accuracy than existing status quo methods.
 
 #### Semester Thesis (in Machine Learning) (2)
 Title: Clustering neural systems using generative embedding<br/>

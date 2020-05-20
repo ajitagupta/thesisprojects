@@ -28,5 +28,5 @@ Title: Cloud Computing Security<br/>
 Lab: Dept. of Electrical Engineering and Information Technology<br/>
 Time frame: Aug 2011 - Dec 2011<br/>
 Tools & Technologies: -<br/>
-Summary: Developed a migration and maintenance approach to the packaging manufacturer SwissTec. Identified security issues associated with cloud computing. Presented to Detecon Consulting<br/>
+Summary: Developed a migration and maintenance approach for the packaging manufacturer SwissTec. Identified security issues associated with cloud computing. Presented to Detecon Consulting.<br/>
 Key words: cloud computing, SwissTec, Detecon Consulting

@@ -22,3 +22,11 @@ Time frame: Feb 2011 - Jun 2011<br/>
 Tools & Technologies: Android SDK, Java, SQLite, Excel<br/>
 Summary: Created and deployed an android application to log contact data. Integrated the app with a game running in the foreground. Conducted thorough measurements and successfully tested for scalability.<br/>
 Key words: data mining, multithreading, Android
+
+#### Group Project (in IT Security and Risk Management)
+Title: Cloud Computing Security<br/>
+Lab: Dept. of Electrical Engineering and Information Technology<br/>
+Time frame: Aug 2011 - Dec 2011<br/>
+Tools & Technologies: -<br/>
+Summary: Developed a migration and maintenance approach to the packaging manufacturer SwissTec. Identified security issues associated with cloud computing. Presented to Detecon Consulting<br/>
+Key words: cloud computing, SwissTec, Detecon Consulting

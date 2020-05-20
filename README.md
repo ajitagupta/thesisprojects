@@ -10,7 +10,7 @@ Key words: shape from shading, backward forward model, limited bfgs
 #### Semester Thesis (in Machine Learning) (2)
 Title: Clustering neural systems using generative embedding<br/>
 Lab: Machine Learning Laboratory, Dept. of Computer Science (ETH Zurich) & Laboratory for Social and Neural Systems Research (University of Zurich) <br/>
-Time frame: Jun 2011 - Dec 2012<br/>
+Time frame: Aug 2011 - Dec 2012<br/>
 Tools & Technologies: Matlab<br/>
 Summary: Implemented and contrasted unsupervised learning algorithms, performed a statistical analysis and visualized disorder groups found in fMRI data. Results were presented at the SystemsX.ch conference in Systems Biology in Basel, Switzerland.<br/>
 Key words: unsupervised learning, bootstrapping, multidimensional scaling, generative models

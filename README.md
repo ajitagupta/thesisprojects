@@ -21,7 +21,7 @@ Lab: Communication Systems Group, Dept. of Electrical Engineering and Informatio
 Time frame: Feb 2011 - Jun 2011<br/>
 Tools & Technologies: Android SDK, Java, SQLite, Excel<br/>
 Summary: Created and deployed an android application to log contact data. Integrated the app with a game running in the foreground. Conducted thorough measurements and successfully tested for scalability.<br/>
-Key words: data mining, multithreading, Android
+Key words: data mining, multi-threading, Android
 
 #### Group Project (in IT Security and Risk Management)
 Title: Cloud Computing Security<br/>

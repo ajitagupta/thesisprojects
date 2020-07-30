@@ -20,7 +20,7 @@ Title: Social data mining on smartphones<br/>
 Lab: Communication Systems Group, Dept. of Electrical Engineering and Information Technology<br/>
 Time frame: Feb 2011 - Jun 2011<br/>
 Tools & Technologies: Android SDK, Java, SQLite, Excel, SVN<br/>
-Summary: Created and deployed an android application to log contact data. Integrated the app with a game running in the foreground. Conducted thorough measurements and successfully tested for scalability.<br/>
+Summary: Created and deployed an android application to log contact data. Integrated the app with a game running in the foreground. Ran an alpha-test in the research group to conduct thorough measurements and successfully tested for scalability.<br/>
 Key words: data mining, multi-threading, Android
 
 #### Group Project (in IT Security and Risk Management)
